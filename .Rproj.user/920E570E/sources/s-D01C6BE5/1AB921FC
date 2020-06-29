@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1593416866638.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4084511528",
+    "id" : "1AB921FC",
+    "lastKnownWriteTime" : 1593416918,
+    "last_content_update" : 1593416918425,
+    "path" : "~/D_Folder/User_Data/Personal/Analytics/Coursera/Testing2/SecondScript.R",
+    "project_path" : "SecondScript.R",
+    "properties" : {
+        "cursorPosition" : "1,31",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
